@@ -25,7 +25,7 @@ This script creates two directories in your working directory: 'corpus1' for the
 
 <pre><code>
 library(devtools)
-source_url("https://gist.githubusercontent.com/aurora-mareviv/697cbb505189591648224ed640e70fb1/raw/b42ac2e361ede770e118f217494d70c332a64ef8/pmid.tagcloud.R")
+source_url("https://github.com/aurora-mareviv/idis-devel/blob/master/pmid.tagcloud.R")
 </code></pre>
 
 </span>
